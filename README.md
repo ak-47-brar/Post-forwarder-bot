@@ -1,7 +1,7 @@
 # Telegram Message Forwarder Bot
 A telegram bot, which can forward messages from channel, group or chat to another channel, group or chat automatically.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Amul-jat/Post-forwarder-bot)
 
 ### Configuration
